@@ -7,7 +7,7 @@ body {
 }
 
 img {
-    max-width: 100%;
+    max-width: 85%;
 }
 
 p {
@@ -32,3 +32,19 @@ p {
   text-decoration: line-through;
 }
 
+.about {
+  font-style: italic;
+}
+
+.about2 {
+  font-style: italic;
+  font-size: 10px;
+}
+
+.indent {
+  text-indent: 10%;
+}
+
+.person {
+  color: purple;
+}

@@ -12,8 +12,11 @@
                      <div class="row">
                          <div class="col">
                              <h4>About the manuscript page:</h4>
-                             <xsl:value-of select="//tei:sourceDesc"/>
-                             <xsl:value-of select="//tei:licence"/> <!-- You can change the way the metadata is visualised as well-->
+                             <div class="about"><xsl:value-of select="//tei:sourceDesc//tei:title"/> by 
+                             <xsl:value-of select="//tei:sourceDesc//tei:author"/></div>
+                             <div class="about2"><xsl:value-of select="//tei:sourceDesc//tei:note"/></div>
+                            <xsl:value-of select="//tei:licence"/>
+                            <!-- You can change the way the metadata is visualised as well-->
                          </div>
                          <div class="col">
                             <ul> 
@@ -21,10 +24,10 @@
                                     <xsl:value-of select="count(//tei:del|//tei:add)" /> <!-- Counts all the add and del elements, and puts it in a list item -->
                                 </li>
                                 <li>Number of additions: 
-                                    <!-- count the additions only -->
+                                    <xsl:value-of select="count(//tei:add)"/><!-- count the additions only -->
                                 </li>
                                 <li>Number of deletions: 
-                                    <!-- count the deletions only -->
+                                    <xsl:value-of select="count(//tei:del)"/> <!-- count the deletions only -->
                                 </li>
                                 <!-- add other list items in which you count things, such as the supralinear additions only, or additions made with pencil -->
                             </ul>

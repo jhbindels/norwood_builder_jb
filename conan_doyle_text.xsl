@@ -54,6 +54,24 @@
         </span>
     </xsl:template>
 
+        
+    <xsl:template match="tei:l">
+            <xsl:apply-templates/><br/>
+    </xsl:template>
+
+        <xsl:template match="tei:l[@rend]">
+            <div class="indent">
+                <xsl:apply-templates/>
+            </div>
+    </xsl:template>
+
+        <xsl:template match="tei:rs">
+            <span class="person">
+                <xsl:apply-templates/>
+            </span>
+    </xsl:template>
+
+
     <xsl:template match="tei:add">
         <span class="add">
             <xsl:attribute name="place">
