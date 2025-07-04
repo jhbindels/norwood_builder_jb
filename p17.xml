@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt><title type="main">The adventure of the Norwood builder</title><author>Arthur Conan Doyle</author></titleStmt>
+         <seriesStmt><title>DH Summerschool - Antwerp 2025</title></seriesStmt>
+         <sourceDesc>
+            <bibl><title type="main">The adventure of the Norwood builder</title><author>Arthur Conan Doyle</author><respStmt><resp>Writer</resp><name>Arthur Conan Doyle</name></respStmt><idno type="Transkribus">2892283</idno><note>Henry W. and Albert A. Berg Collection of English and American Literature, The New York Public Library. (1881 - 1910). Return of Sherlock Holmes, The: No. 2. The adventure of the Norwood builder. Holograph Retrieved from https://digitalcollections.nypl.org/items/95a54c30-732a-0136-b6bf-4dfacf2ed6b1</note></bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="en">English</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="5400" lry="7115" xml:id="facs_17">
+         <graphic url="0017_017_7r.jpeg" width="5400px" height="7115px"/>
+         <zone points="167,1214 5169,1214 5169,6740 167,6740" rendition="TextRegion" xml:id="facs_17_tr_1">
+            <zone points="255,1057 4892,1057 4892,1442 255,1442" rendition="Line" xml:id="facs_17_tr_1_tl_1"/>
+            <zone points="242,1361 5085,1361 5085,1778 242,1778" rendition="Line" xml:id="facs_17_tr_1_tl_2"/>
+            <zone points="242,1629 2393,1629 2393,2033 242,2033" rendition="Line" xml:id="facs_17_tr_1_tl_3"/>
+            <zone points="1206,1995 3226,1995 3226,2331 1206,2331" rendition="Line" xml:id="facs_17_l"/>
+            <zone points="2486,1759 5128,1759 5128,2107 2486,2107" rendition="Line" xml:id="facs_17_tr_1_tl_4"/>
+            <zone points="3326,2020 5128,2020 5128,2362 3326,2362" rendition="Line" xml:id="facs_17_l_55"/>
+            <zone points="205,2213 1828,2213 1828,2648 205,2648" rendition="Line" xml:id="facs_17_tr_1_tl_6"/>
+            <zone points="1175,2592 4401,2592 4401,2965 1175,2965" rendition="Line" xml:id="facs_17_l_87"/>
+            <zone points="4345,2505 4849,2505 4849,2717 4345,2717" rendition="Line" xml:id="facs_17_tr_1_tl_7"/>
+            <zone points="4849,2598 5041,2598 5041,2909 4849,2909" rendition="Line" xml:id="facs_17_l_94"/>
+            <zone points="193,2891 1467,2891 1467,3257 193,3257" rendition="Line" xml:id="facs_17_tr_1_tl_9"/>
+            <zone points="1380,3152 5153,3152 5153,3562 1380,3562" rendition="Line" xml:id="facs_17_tr_1_tl_10"/>
+            <zone points="155,3506 1181,3506 1181,3817 155,3817" rendition="Line" xml:id="facs_17_l_122"/>
+            <zone points="709,3220 1361,3220 1361,3593 709,3593" rendition="Line" xml:id="facs_17_tr_1_tl_11"/>
+            <zone points="1194,3475 3966,3475 3966,3842 1194,3842" rendition="Line" xml:id="facs_17_l_129"/>
+            <zone points="1374,3761 3966,3761 3966,4128 1374,4128" rendition="Line" xml:id="facs_17_l_157"/>
+            <zone points="3674,3711 4358,3711 4358,3898 3674,3898" rendition="Line" xml:id="facs_17_tr_1_tl_13"/>
+            <zone points="3966,3804 4923,3804 4923,4152 3966,4152" rendition="Line" xml:id="facs_17_l_164"/>
+            <zone points="143,4047 5141,4047 5141,4426 143,4426" rendition="Line" xml:id="facs_17_tr_1_tl_15"/>
+            <zone points="131,4376 2375,4376 2375,4731 131,4731" rendition="Line" xml:id="facs_17_tr_1_tl_16"/>
+            <zone points="1635,4668 5048,4668 5048,5029 1635,5029" rendition="Line" xml:id="facs_17_tr_1_tl_17"/>
+            <zone points="193,4911 5128,4911 5128,5352 193,5352" rendition="Line" xml:id="facs_17_tr_1_tl_18"/>
+            <zone points="1610,5284 5066,5284 5066,5619 1610,5619" rendition="Line" xml:id="facs_17_tr_1_tl_19"/>
+            <zone points="186,5539 4780,5539 4780,5918 186,5918" rendition="Line" xml:id="facs_17_tr_1_tl_20"/>
+            <zone points="174,5961 1001,5961 1001,6216 174,6216" rendition="Line" xml:id="facs_17_l_192"/>
+            <zone points="193,5794 4227,5794 4227,6042 193,6042" rendition="Line" xml:id="facs_17_l_261"/>
+            <zone points="1007,5881 5010,5881 5010,6247 1007,6247" rendition="Line" xml:id="facs_17_l_281"/>
+            <zone points="174,6148 3848,6148 3848,6527 174,6527" rendition="Line" xml:id="facs_17_l_309"/>
+            <zone points="2070,6440 5110,6440 5110,6807 2070,6807" rendition="Line" xml:id="facs_17_l_337"/>
+         </zone>
+      </surface>
+   </facsimile>
+   <text>
+      <body><div><pb facs="#facs_17" n="17" xml:id="img_0017"/>
+            <ab facs="#facs_17_tr_1" type="">
+               <l facs="#facs_17_tr_1_tl_1" n="N001">finished my story make them give me time so that I may tell</l>
+               <l facs="#facs_17_tr_1_tl_2" n="N002">you the whole truth. I could go to gaol happy of I knew that you</l>
+               <l facs="#facs_17_tr_1_tl_3" n="N003">were working for me outside"</l>
+               <l rend="indent" facs="#facs_17_l" n="N004">"Arrest you!" said <rs type="person">Holmes</rs> <add hand="ACD" place="above" rend="black ink">"This is really most grati–most interesting></add> "On what charge do you</l>
+               <l facs="#facs_17_tr_1_tl_6" n="N007">expect to be arrested?"</l>
+               <l rend="indent" facs="#facs_17_l_87" n="N008">"Upon the charge of murdering <rs type="person">Mr. Jonas<add hand="ACD" place="above" rend="black ink">Oldacre</add></rs><del hand="ACD" rend="black ink"><unclear reason="illegible">Cooper</unclear></del>of</l>
+               <l facs="#facs_17_tr_1_tl_9" n="N011">Lower Norwood</l>
+               <l rend="indent" facs="#facs_17_tr_1_tl_10" n="N012">My Companion’s expressive face showed a sympathy</l>
+               <l facs="#facs_17_l_122" n="N013">which was not <add hand="ACD" place="above" rend="black ink">I am afraid</add>entirely unmixed with satisfaction.</l>
+               <l rend="indent" facs="#facs_17_l_157" n="N016">Dear me?" said he" It was only <add hand="ACD" place="above" rend="pencil">this moment</add> at breakfast</l>
+               <l facs="#facs_17_tr_1_tl_15" n="N019">that I was saying to my friend <rs type="person">Dr. Watson</rs> that sensational cases had</l>
+               <l facs="#facs_17_tr_1_tl_16" n="N020">disappeared out of our papers"</l>
+               <l rend="indent" facs="#facs_17_tr_1_tl_17" n="N021">Our visitor stretched forward a quivering hand</l>
+               <l facs="#facs_17_tr_1_tl_18" n="N022">and picked up the Daily Telepaph which still lay upon <rs type="person">Holmes</rs>' knee.</l>
+               <l rend="indent" facs="#facs_17_tr_1_tl_19" n="N023">"If you had looked at it, sir, you would have seen</l>
+               <l facs="#facs_17_tr_1_tl_20" n="N024">at a glance what the erriand is on which I have come to you this</l>
+               <l facs="#facs_17_l_192" n="N025">morning." <add hand="ACD" place="above" rend="pencil">I feel as of my name and my misfortune must be in every man's mouth.</add> He turned it over to expose the central page. "Here it is,</l>
+               <l facs="#facs_17_l_309" n="N028">and with your permission I will read it to you.<del hand="ACD" rend="black ink">for it tells what</del></l>
+               <l facs="#facs_17_l_337" n="N029"><del hand="ACD" rend="black ink">the police are going on.</del>Listen to this, <rs type="person">Mr. Holmes</rs>. The headlines</l>
+            </ab></div>
+      </body>
+   </text>
+</TEI>
